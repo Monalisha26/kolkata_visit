@@ -1,0 +1,23 @@
+
+.vertical-center {
+
+  display: flex;
+  align-items: center;
+}
+body
+{  
+    background-image:url("../pic/4.jpg");
+	background-size:cover;
+	background-repeat:no-repeat;
+}
+
+.card {
+        margin: 0 auto; /* Added */
+        float: none; /* Added */
+        margin-bottom: 10px; /* Added */
+}
+
+select
+{
+	padding:5px;
+}
