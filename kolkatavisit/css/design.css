@@ -3,7 +3,7 @@ table
 	position:relative;
 	left:30%;
 	width:400px;
-	background-color:gray;
+	background-color:pink;
 	padding:30px;
 }
 h2,p
@@ -11,7 +11,7 @@ h2,p
 	position:relative;
 	left:31%;
 	width:300px;
-	background-color:gray;
+	background-color:blue;
 	padding:30px;
 }
 table 
@@ -28,4 +28,8 @@ input,select
 	width:100%;
 	padding:5px;
 	border-radius:4px;
+}
+.carousel-item
+{
+	height:50%;
 }

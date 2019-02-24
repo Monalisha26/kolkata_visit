@@ -1,0 +1,48 @@
+table
+{
+	position:relative;
+	left:30%;
+	width:400px;
+	background-color:gray;
+	padding:30px;
+}
+h2
+{
+	position:relative;
+	left:36%;
+	width:250px;
+	background-color:white;
+	padding:20px;
+}
+p
+{
+position:relative;
+	left:36%;
+	width:250px;	
+}
+table 
+{
+	margin:10px;
+}
+ h2,p
+{
+	margin:10px;
+}
+input,select
+{
+	display:block;
+	width:100%;
+	padding:5px;
+	border-radius:4px;
+}
+.carousel-item
+{
+	height:50%;
+}
+
+body
+{
+  background-image:url("../pic/r.jpg");	
+  background-size:cover;
+  background-repeat:no-repeat;
+}

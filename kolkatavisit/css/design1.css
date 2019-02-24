@@ -1,0 +1,13 @@
+.btn-space {
+    margin-right: 5px;
+}
+footer {
+    padding-top: 10px;
+    border-top: 10px solid #FFBF00;
+    background-color: cyan;
+    position: fixed;
+    height: 80px;
+    bottom: 0;
+    width: 100%;
+
+}
